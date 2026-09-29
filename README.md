@@ -1,9 +1,9 @@
 # Hi, I'm Federico Sequeiros 👋
 
-**BI Developer** · Power BI · SQL Server · SSIS · DAX
+**BI Developer** · Power BI · SQL Server · SSIS · DAX<br>
 Industrial Engineer turning operational data into business decisions.
 
-🇪🇸 Spanish citizen · 📍 Mendoza, Argentina (GMT-3) · Open to remote roles (LATAM, US, Europe)
+🌍 Spanish citizen · 📍 Mendoza, Argentina (GMT-3) · Open to remote roles (LATAM, US, Europe)
 
 ## About me
 - 4 years working with data. Currently BI Developer at Grupo Lorenzo, a multi-brand car dealership group, building dashboards for every area of the business.
