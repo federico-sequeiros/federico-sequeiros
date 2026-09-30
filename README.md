@@ -25,7 +25,11 @@ Industrial Engineer turning operational data into business decisions.
 - Microsoft Fabric
 
 ## Portfolio
-🚧 Coming soon: Power BI projects with data model, DAX measures and documentation.
+| Project | What it shows |
+|---|---|
+| [Aurora — Customer, Product & Service Analytics](https://github.com/federico-sequeiros/powerbi-aurora-customers) | Telecom customer base: technology bundles with DAX set logic, trends, delinquency, activations and churn |
+
+🚧 More projects coming soon: purchasing, exports and agro-industrial costs.
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/federico-sequeiros)
