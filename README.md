@@ -30,7 +30,7 @@ Industrial Engineer turning operational data into business decisions.
 | [Aurora — Customer, Product & Service Analytics](https://github.com/federico-sequeiros/powerbi-aurora-customers) | Telecom customer base: technology bundles with DAX set logic, trends, delinquency, activations and churn |
 | [Terracampo — Purchasing Cycle Analytics](https://github.com/federico-sequeiros/powerbi-terracampo-purchasing) | Agribusiness purchasing: requisition-to-order lead time, supplier concentration and maintenance cost per machine |
 
-🚧 More projects coming soon: purchasing, exports and agro-industrial costs.
+🚧 More projects coming soon: exports and agro-industrial costs.
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/federico-sequeiros)
